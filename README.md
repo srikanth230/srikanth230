@@ -1,4 +1,4 @@
-# Hey 👋 What's up?👋, I'm Srikanth
+# Hello 👋  I'm Srikanth
 
 ## I'm a Freelancer, Developer , and Content Creator
 
