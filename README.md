@@ -1,6 +1,6 @@
 # Hello 👋  I'm Srikanth
 
-## I'm a Freelancer, Developer , and Content Creator
+## I'm a Freelancer, Developer ,and Content Creator
 
 # 💫 About Me:
 <br><br>🌟 Passionate : "Machine Learning" , "Data Science," "Finance" <br>💼 Current Role : Fresher<br>🎓 Background : Artificial Intelligence and Data Science from Anna University"<br>🌱 Learning : Machine Learning , Python,HTML,CSS.<br>💡 Projects : Data-Analytics-Air Quality(Machine Learning)<br>✨ Motto: Success Is No Accident.<br><br>
